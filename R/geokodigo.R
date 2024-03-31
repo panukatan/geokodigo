@@ -13,7 +13,7 @@
 #' different versions of the PSGC over time, formatting and structuring them
 #' into machine-readable relational database-ready formats.
 #'
-#' @name geokodiog
+#' @name geokodigo
 #' @docType package
 #' @keywords internal
 #'
