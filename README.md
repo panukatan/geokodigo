@@ -10,6 +10,10 @@ has not yet been a stable, usable release suitable for the
 public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
 [![Lifecycle:
 experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+[![R-CMD-check](https://github.com/panukatan/geokodigo/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/panukatan/geokodigo/actions/workflows/R-CMD-check.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/panukatan/geokodigo/branch/main/graph/badge.svg)](https://app.codecov.io/gh/panukatan/geokodigo?branch=main)
+[![CodeFactor](https://www.codefactor.io/repository/github/panukatan/geokodigo/badge)](https://www.codefactor.io/repository/github/panukatan/geokodigo)
 <!-- badges: end -->
 
 The Philippine Standard Geographic Code (PSGC) is a classification and
