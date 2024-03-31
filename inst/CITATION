@@ -1,0 +1,16 @@
+citHeader("To cite geokodigo in publications use:")
+
+citEntry(
+  entry    = "Manual",
+  title    = "geokodigo: An Interface to the Philippine Standard Geographic Codes",
+  author   = person("Ernest Guevarra"),
+  year     = "2024",
+  note     = "R package version 0.0.0.9000",
+  url      = "https://panukatan.io/geokodigo/",
+  textVersion = paste(
+    "Ernest Guevarra (2024).",
+    "geokodigo: An Interface to the Philippine Standard Geographic Codes",
+    "R package version 0.0.0.9000",
+    "URL https://panukatan.io/geokodigo/"
+  )
+)
